@@ -4,6 +4,8 @@
 
 Every screen in Seats & Beats has a **?** button that opens Help for that screen. The full guide is under **Settings**, then **Help**. It covers setting up your riders, stops and runs, the seating chart, song requests and playing music on the bus.
 
+You can also read the whole [Driver's Guide](guide) here.
+
 ## Common questions
 
 **Do I need Apple Music?** To play music, yes: an Apple Music subscription on your iPhone. The seating chart works without one.
