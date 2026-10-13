@@ -12,13 +12,23 @@
   h2 { font-size: 1.25em; margin: 1.8em 0 0.4em; }
   a { color: #a0641e; }
   li { margin: 0.3em 0; }
-  nav { max-width: 680px; margin: 0 auto 28px; font-size: 0.95em; }
-  nav a { margin-right: 16px; text-decoration: none; }
+  header { max-width: 680px; margin: 0 auto 28px; text-align: center; }
+  header img { border-radius: 18px; display: block; margin: 0 auto 14px; }
+  nav { font-size: 0.95em; }
+  nav a { margin: 0 9px; text-decoration: none; }
   @media (prefers-color-scheme: dark) { a { color: #f5b21d; } }
 </style>
 </head>
 <body>
-<nav><a href="{{ '/' | relative_url }}">Seats &amp; Beats</a><a href="{{ '/privacy' | relative_url }}">Privacy</a><a href="{{ '/support' | relative_url }}">Support</a></nav>
+<header>
+  <a href="{{ '/' | relative_url }}" aria-label="Seats &amp; Beats home">
+    <picture>
+      <source srcset="{{ '/assets/wordmark-dark.png' | relative_url }}" media="(prefers-color-scheme: dark)">
+      <img src="{{ '/assets/wordmark-light.png' | relative_url }}" alt="Seats &amp; Beats" width="150" height="196">
+    </picture>
+  </a>
+  <nav><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/privacy' | relative_url }}">Privacy</a><a href="{{ '/support' | relative_url }}">Support</a></nav>
+</header>
 <main>
 {{ content }}
 </main>
