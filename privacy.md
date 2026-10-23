@@ -1,6 +1,6 @@
 # Seats & Beats Privacy Policy
 
-Last updated: 2026-10-14
+Last updated: 2026-10-22
 
 Seats & Beats collects no data. It has no accounts, no ads, no analytics and no tracking. The developer cannot see anything you enter.
 
@@ -29,7 +29,7 @@ If you ask it to, Seats & Beats saves its playlist cover images to your photo li
 
 Seats & Beats uses your location only if you turn on GPS, which is optional and off unless you turn it on. iPhone asks for your permission ("While Using the App") when you do. The app never asks for "Always".
 
-With GPS on, the app reads your location only while a run's music is playing; tapping Mark stop on Now Playing keeps one of those readings as a stop you marked. To keep tracking working with your phone locked, the app holds a background location session from the start of a run's music to its end, so iPhone's blue location indicator can show while you pause in the middle of a run; no location is read or kept while the music is paused. It keeps two things: where the stops of your runs are, and the times the bus reached them. Both are kept in the app's own storage on your iPhone. They are not synced through iCloud, are not sent to the developer or to anyone else, and are never part of a support file. If you back up your iPhone, to iCloud or to a computer, the backup includes them like the rest of the app's data, so a new iPhone set up from your backup keeps them.
+With GPS on, the app reads your location only while a run's music is playing; tapping Mark stop on Now Playing keeps one of those readings as a stop you marked. To keep tracking working with your phone locked, the app holds a background location session from the start of a run's music to its end, so iPhone's blue location indicator can show while you pause in the middle of a run; no location is read or kept while the music is paused. It keeps two things: where the stops of your runs are, and the times the bus reached them. Both are kept in the app's own storage on your iPhone. They are not synced through iCloud and are not sent to the developer or to anyone else. A place is never part of a support file: a support file you choose to share has only numbers, namely how many seconds early or late the bus reached each stop and, for a stop not found yet, how many drives stopped near it and roughly how far apart (a distance range). If you back up your iPhone, to iCloud or to a computer, the backup includes them like the rest of the app's data, so a new iPhone set up from your backup keeps them.
 
 Turning GPS off stops all use of location and keeps what was learned. "Forget all locations" (Settings, then GPS) removes it, and so does "Erase all data".
 
