@@ -1,6 +1,6 @@
 # Seats & Beats Privacy Policy
 
-Last updated: November 1, 2026
+Last updated: 2026-11-01
 
 Seats & Beats collects no data. It has no accounts, no ads, no analytics and no tracking. The developer cannot see anything you enter.
 
