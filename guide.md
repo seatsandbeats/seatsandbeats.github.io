@@ -414,6 +414,22 @@ It never asks if you set **Late start today** first (None counts). Once the morn
 
 **A morning you don't drive.** Press Play in the afternoon. Riders whose song was planned for the morning are heard then if there's room.
 
+### Not riding today
+
+When a rider will be away for part of one day (a field trip, a missed class), set it ahead so the music plans without them. Do it while you are parked, before the part starts.
+
+**From the Week tab.** Tap **Not riding today…**. Choose **Morning**, **Afternoon** or **All day**, tick one rider or several, then tap **Save**.
+
+**From a rider's card.** Tap **Not riding today**, then **Morning**, **Afternoon** or **All day**. The card then says **Not riding this morning**, **this afternoon** or **today**, with **Undo**.
+
+**What it changes.** The day's music is planned again without them, so the time goes to riders who are aboard. Their song is not lost. It waits for the next day they ride, and a day they miss is never counted against them.
+
+**What it cannot change.** A part that has started cannot be changed, so after the morning's Play only the afternoon is offered. A run that is playing never changes. **Undo** takes it back, again only for parts that have not started.
+
+**The checklist.** The after-run checklist shows them as not riding. If you mark a rider **Not riding** on the checklist after a run, that is only a note: it changes no music.
+
+It holds for today only. For days they never ride, use **Rides** on the rider's page. See **Which days a rider rides**.
+
 ## How fairness works
 
 When there is more music than ride, someone has to wait. Seats & Beats makes sure it is never the same rider every time.
@@ -489,6 +505,20 @@ If a rider has stopped riding for the year, tap **Edit** on their card and turn 
 If they are gone for good, open them from the **Riders** tab, tap **Edit**, then **Remove rider…**, the last button. It deletes the rider and their songs, so it asks first.
 
 **Only one way?** On the rider's page, **Rides this bus** also decides which runs play their songs: mornings only, afternoons only, or both.
+
+### Which days a rider rides
+
+Open a rider and look at **Rides**. By default a rider rides every morning and every afternoon.
+
+**Days.** Under **Mornings** and **Afternoons**, tap a day to turn it on or off. A filled day is a day they ride. Each tap saves. Their songs play only on days they ride, and a day they do not ride never counts as missed. A song that has no ride that day waits for the next day they ride.
+
+**Quick choices.** **Rides this bus** sets every day at once: **Both**, **Mornings only** or **Afternoons only**. After you change days one by one it reads **Some days**. Picking a quick choice then asks before it replaces your days.
+
+**Gets off at.** Pick the stop where they get off every afternoon. **Same as pickup** is the usual. A rider who gets off somewhere else on one day, like at a grandparent's house, can have a stop for that day. Tap **Add a weekday stop**, choose the day and the stop. A weekday stop beats **Gets off at** on that day. Swipe it left to remove it (it asks first). The song for that afternoon is placed before that stop, and GPS timing for that day ends there.
+
+The Week tab and the rider's card show what you set, such as **Mornings only** or **Some days**.
+
+For one day off, such as a field trip, see **Not riding today**.
 
 ### Shared songs
 
