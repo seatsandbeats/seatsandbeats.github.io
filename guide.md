@@ -471,19 +471,19 @@ To import picks, tap **⋯**, then **Import a playlist**, with **Goes into** set
 
 Three settings in **Settings**, **Playlist options**, decide when your picks play:
 
-- **Fill gaps with driver's picks:** before a pickup, a pick plays instead of a rider's song that would start before they board. Example: Play at 6:50, first pickup 6:58: two picks, then that rider's song.
+- **Fill gaps with driver's picks:** before a pickup, a pick plays instead of a rider's song that would start before they board.
 - **Keep music going to the end:** after the riders' songs, picks play until the run ends.
-- **Driver's picks**, just below: **Mixed in** or **After riders' songs** decides where those picks go. It's greyed out while Keep music is off; your choice is kept.
+- **Driver's picks**, just below: **Mixed in** or **After riders' songs** decides where those picks go. It's greyed out while Keep music is off.
 
-**Mixed in** (the default) spreads picks between riders' songs when there's room. Example: everyone boards at school, first stop 15 minutes away: song, pick, song, pick. On a full bus most picks still play at the end.
+**Mixed in** (the default) spreads picks between riders' songs when there's room. On a full bus most picks still play at the end.
+
+**Morning and afternoon.** On a morning and an afternoon run to the same schools, riders' songs end before the bell, so some picks play before it. With GPS on, the app also moves riders' songs to the afternoon when the morning is full, so the picks are shared as evenly as riders' songs allow. Every rider's song comes first.
 
 **After riders' songs:** song, song, song, then picks.
 
-**Riders come first.** Mixing in never changes who hears their song. A rider's song moves later only if it still ends at least 4 minutes before their stop or school release. With GPS following a run, it can move as late as a minute before the rider's stop. Picks stay on their own run.
+**Riders come first.** Mixing in never changes who hears their song. A rider's song moves later only if it still ends at least 4 minutes before their stop or school release. With GPS following a run, it can move as late as a minute before the rider's stop.
 
-**Least played first.** The picks played least in your Bus playlists over the last four weeks come up first. Ties are shuffled each day.
-
-After an update that changes this order, playlists are rewritten once.
+**Least played first.** The picks played least in the last four weeks come first.
 
 ### Pausing a rider
 
@@ -691,11 +691,11 @@ Stop locations and times are saved on this iPhone and in your iPhone's own backu
 
 With **Use GPS** on, two switches appear under it in **Settings**, **GPS**, both on. Neither acts on a run with no saved locations.
 
-**Pause at school.** Your music plays on at school until the bell, while riders are still aboard. Then it pauses, and Now Playing says "Paused at school at …" until you press Play. If a rider's song has two minutes or less left, it finishes first. Driver's picks playing at school pause at the bell too. Arrive after the bell: it pauses about a minute after you pull in. An afternoon run never pauses this way.
+**Pause at school.** Riders' songs are planned to end before the bell, so no rider's song plays as they get off. Driver's picks fill the last minutes and play on at school while riders are still aboard. At the bell the music pauses, whatever is playing, and Now Playing says "Paused at school at …" until you press Play. Arrive after the bell: it pauses as you pull in. An afternoon run never pauses this way.
 
 **Keep up with the bus.** Running late? The rest of the run's songs are moved so riders still hear theirs. It only happens when more riders hear their song, and never cuts the song playing.
 
-**Fair rotation.** Who heard their song is judged from when the bus really reached each stop. A stop GPS missed is judged on its planned time, so it never counts against a rider.
+**Fair rotation.** Who heard their song is judged from when the bus really stopped at each stop. A stop GPS missed is judged on its planned time, so it never counts against a rider.
 
 **A little past the music.** GPS can keep going after the music ends, until your last stop or 15 minutes past the run's planned end. It keeps only times against stops.
 
