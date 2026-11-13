@@ -1,6 +1,6 @@
 # Seats & Beats Privacy Policy
 
-Last updated: 2026-11-05
+Last updated: 2026-11-13
 
 Seats & Beats collects no data. It has no accounts, no ads, no analytics and no tracking. The developer cannot see anything you enter.
 
@@ -10,12 +10,12 @@ Seats & Beats is for school bus drivers. Riders do not use it and have no accoun
 
 ## What stays where
 
-- Riders (including which days each rides and where they get off), stops, songs, driver's picks, seating charts and play history are stored on your iPhone and in your own private iCloud (CloudKit) account. The developer cannot see this data.
+- Riders (including which days each rides and where they get off), stops, songs, driver's picks, seating charts, play history (including skipped songs), flagged songs and blocked songs and artists are stored on your iPhone and in your own private iCloud (CloudKit) account. The developer cannot see this data.
 - Riders' marks, notes, incidents, rewards and bus card details (including a last name or student number, if you choose to type one) are stored the same way: on your iPhone and in your own private iCloud.
-- Your preferences (crossfade, automatic playlist updates and the other settings) follow you to your other devices through your own iCloud. The developer cannot see them. The day's playback position is kept only on the iPhone.
+- Your preferences (crossfade, automatic playlist updates, which parts of the app are switched on and the other settings) follow you to your other devices through your own iCloud. The developer cannot see them. The day's playback position is kept only on the iPhone.
 - Nothing is shared with the developer, advertisers or any other third party.
 - A report, a summary, a seating chart or an incident summary contains names and your own words. It leaves your iPhone only when you share or copy it. Text you copy in the app stays on that iPhone and is cleared after ten minutes.
-- A support file (Settings, then Share a support file) leaves your iPhone only when you share it. It contains no names and none of the words you typed.
+- A support file (Settings, then Share a support file) leaves your iPhone only when you share it. It contains no names and none of the words you typed. Its settings list includes which parts of the app are switched on.
 
 ## Apple Music
 

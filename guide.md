@@ -10,34 +10,52 @@ Do this once, before your first route. It takes about half an hour, plus the tim
 
 ### Getting started
 
-Seats & Beats turns song requests into five Apple Music playlists, one per weekday, in stop order.
+The first time you open Seats & Beats, a short welcome asks which parts of the app you'll use. Pick what helps you; you can change it later in Settings, then Parts of the app.
 
-On the **Week** tab, follow the four steps of **Get the bus ready**:
+Then the Week tab shows **Get the bus ready**, built from your choices. Tap a step to open its guided setup. Stop any time: the list remembers where you are.
 
-- **Set up your route.** The **Route** tab starts with a morning and an afternoon run. To add one, tap **+**. See **Runs, schools and the layover**.
-- **Add riders.** Open the **Riders** tab and tap **+**. Pick each rider's school (it decides their run), stop and grade; **Add and start another** saves and opens the next. Change them later under **Edit** on the rider's card.
-- **Pick songs.** Open a rider's card and add songs, up to 10 (change it in **Settings**). One plays a day, in turn.
-- **Your playlists are made automatically** once a rider has a song.
+1. **Set up your runs.** For each run, its school, its stops and their times, one question at a time.
+2. **Add your first rider.** Their name, their stop, and the days they ride. More riders go in quickly from the + on the Riders tab.
+3. **Connect Apple Music** (with riders' music). Apple asks once. An Apple Music subscription is needed to play songs.
+4. **Choose their songs** (with riders' music), on the rider's card.
+5. **Set up your bus** (with the seating chart), in five steps.
 
-On the **Riders** tab, riders are listed **A to Z** with their stop and time. Tap **Sort** (top right) and choose **By stop** to group by stop; it remembers. Riders who need a school or a stop stay at the top. A button for each run shows only its riders, and search finds everyone, with other runs' riders under **In other runs**. In **By stop**, riders on a run with no requests are under **No stop**.
+Once your runs and a rider are in, the Week tab shows your week. Any step left over waits in a **Finish setting up** card at the top; tap × to hide it for good.
 
-The **Songs** tab lists every requested song and its days.
+Want to look around first? With riders' music on, **Try it with a sample route** loads made-up riders and songs. Remove them in Settings whenever you like.
 
-Apple Music must be connected: if you see **Connect Apple Music**, tap **Connect**.
+Everything you enter is saved on your iPhone and in your own iCloud.
 
-Want to look around first? Before setting up your route, tap **Or try it with a sample route and riders**; remove it later in **Settings**.
+### Parts of the app
+
+Seats & Beats is made of parts. Use the ones that help you. You choose them when you first open the app and can change them any time in Settings, then Parts of the app.
+
+- **Riders' music.** Each rider picks songs, and Apple Music plays one while they're on the bus. Off, there is no Songs tab and Apple Music is never asked for.
+- **Seating chart.** A chart for each run, with seats you can print. Off, there is no Seats tab; its lists (incidents, reports, rewards, bus cards) move to the top of the Riders tab.
+- **Rider notes and the after-run checklist.** Marks (the words you use to note a ride), notes, and a quick check after each run.
+- **Incident marker.** One tap saves the time while you drive. You write it up when you're parked.
+- **Reports.** A rider's report, or a summary for the principal.
+- **Weekly rewards.** Riders suggested for a weekly reward, fairly.
+- **Bus cards.** Who needs a bus card, who has asked, and who has one.
+- **GPS.** Learns where your stops are and suggests real stop times. It goes with riders' music; turn it on in Settings, then GPS.
+
+Turning a part off hides it everywhere. Nothing is deleted: turn it back on and everything is as you left it.
+
+While music is playing, the switches wait: stop the music first.
 
 ### How the plan works
 
 Seats & Beats counts time from when you press play. Each run on the **Route** tab has its own times, and each stop its time on that run.
 
-It places each rider's song after they get on and before they get off, if you stay near your usual schedule. A rider who gets off at the first school hears their song before that school's release.
+It places each rider's song after they get on and before they get off, if you stay near your usual schedule.
 
-**A morning run and its afternoon run are planned as one list.** When the same riders ride a morning run and an afternoon run, a rider's song plays on whichever has room. Other runs are planned alone. A **Driver's picks** or **No music** run plays no riders' songs. With a **Driver's picks** run the same riders hear the same songs, but picks are shared, so which play, and whether a song plays morning or afternoon, can shift.
+**A morning run and its afternoon run are planned as one list.** When the same riders ride both, a rider's song plays on whichever has room. Other runs are planned alone. A **Driver's picks** or **No music** run plays no riders' songs.
+
+**The order changes every day.** Riders' songs come in a different order each day, as far as each rider's stop allows, so no one is always first or last. Two songs by one artist don't play back to back, unless that's the only way every rider hears theirs.
 
 The **Safety margin** (0 to 5 minutes, on the **Route** tab) keeps slack: with 1 minute, a song starts at least 1 minute after the pickup and ends at least 1 minute before the drop-off or release.
 
-Tap a day on the **Week** tab to see its timeline, one section per run, with **Layover** rows between runs. Green means the rider hears their song aboard. Red means it misses them. Today's page shows what will really play.
+Tap a day on the **Week** tab to see its timeline, one section per run. Green means the rider hears their song aboard; red means it misses them.
 
 **Changes between runs.** Change a rider or songs after the day starts and the afternoon updates before its first Play. A playing run never changes.
 
@@ -54,6 +72,7 @@ Tap the line to see why, and fix it there:
 
 - **A Driver's picks run with no picks that can play.** Add driver's picks, import a playlist, or change the run to riders' requests.
 - **Keep music going to the end is on, but no pick can play.** Add picks (clean ones while Clean songs only is on).
+- **No picks okay for the run's riders.** Every pick that could play is marked for older riders. Tap **Review picks' ages** and mark some All ages, or add picks.
 - **Riders' songs fill less than half of a run, with Keep music going to the end off.** Turn it on, or add songs for more riders.
 
 With Keep music going to the end off, a shorter quiet end is your choice, so only the grey stretch shows.
@@ -64,7 +83,7 @@ A line goes away once it's fixed. Lines wait while today's music is playing, and
 
 Now and then the **Week** tab shows a tip: one thing that would help right now. Tips show only while you're parked, one at a time, about one new tip a week. Tap the button to act on it, or **×** to hide it for good. A tip leaves when it no longer applies.
 
-## What they say
+#### What they say
 
 - **Music ran out before your last stop**, **music between runs**, **a late start** and **time for a change of scenery**.
 - **A rider has no song on some days.** Add a song and they hear one every day.
@@ -83,16 +102,17 @@ Recent activity notes when a tip was used or hidden, never which rider it named.
 
 A **run** is one trip. On the **Route** tab, tap **+**. Enter each stop once, with both times (or **Skip**). Run times come from your stops.
 
-**The other half.** A pair shows **↔ Afternoon Run 2**; a lone run shows **Morning only** or **Afternoon only**; **Add the afternoon half…** makes the other trip. A stop added to either run asks for both times. Remove it with **Remove from this run** or **Remove from both runs**. If the other half has stops this run lacks, tap **Add it here** or **Not needed**. Reorder runs with **⋯**.
+**The other half.** A pair shows **↔ Afternoon Run 2**; a lone run shows **Morning only** or **Afternoon only**; **Add the afternoon half…** makes the other trip. If the other half has stops this run lacks, tap **Add it here** or **Not needed**. Reorder runs with **⋯**.
 
-- **Music:** **Requests** (riders' songs), **Driver's picks**, or **No music**. **No music** leaves your other runs' music alone; for **Driver's picks**, see **How the plan works**.
+- **Music:** **Requests** (riders' songs), **Driver's picks**, or **No music**, which leaves your other runs' music alone.
 - **School stops:** mornings have **Arrive** and **Release**; afternoons **Arrive** and **Leave**, when songs start.
+- **School levels:** on the **Route** tab, **Schools**, set each one **Elementary**, **Middle** or **High** (**Not set** counts as elementary). A run plays only driver's picks okay for its youngest school; its page says which.
 
 **Between runs.** **Pause** stops the music after a run; Now Playing shows **Layover**. **Keep picks playing** plays picks until you tap **Start Run 2**.
 
-**Two runs in the morning.** Riders' songs stop at school; a second run plays what you set. Afternoon Play starts the riders' run where the morning stopped. With **Keep music going to the end** on and no music on the second run, picks carry on at school for up to 20 minutes.
+**Two runs in the morning.** Riders' songs stop at school; a second run plays what you set. With **Keep music going to the end** on and no music on the second run, picks carry on at school for up to 20 minutes.
 
-**Two pairs of runs.** With two morning and two afternoon runs all on riders' songs, each morning run joins its paired afternoon run, only when both go to the same schools. A held song carries on in its own afternoon run.
+**Two pairs of runs.** With two morning and two afternoon runs on riders' songs, each morning run joins its paired afternoon run when both go to the same schools.
 
 ### Riders' song lists
 
@@ -101,15 +121,17 @@ Each rider has a list of up to 10 songs (5 to 15 with **Songs per rider** in **S
 - **Every song gets a turn** before any repeats. Ten songs take two weeks.
 - **One song a day, at most.**
 - **Never the same song two days in a row**, even over a weekend.
-- **Same song at most …× a week** still counts. With fewer songs than days, driver's picks fill in.
+- **Same song at most …× a week** still counts; driver's picks fill in.
 - **On a full day**, Seats & Beats picks a shorter or shared song before anyone sits out.
-- **The week's plan stays the same** unless you change songs or shuffle. The rider's card shows each song's days, like **Tue, Fri**.
+- **The week's plan stays the same** unless you change songs or shuffle.
 
-**Tap a song** to see when it plays next and last played, or to replace or remove it. **See lyrics in Apple Music** (here, on each search result and in a Songs-tab row's menu) opens it in Music; tap ◀ Seats & Beats to return. A radio edit is listed first and marked.
+**Tap a song** to see when it plays next and last played, or to replace or remove it. **See lyrics in Apple Music** opens it in Music; tap ◀ Seats & Beats to return. A radio edit is listed first and marked.
 
-**A full list.** Adding a song asks which one it replaces, oldest and most-played first; nothing changes until you confirm. To start over, tap **⋯** beside **Songs**, then **Remove all songs** (it asks first). Lowering **Songs per rider** removes nothing.
+**Skips.** A song's page shows how often it was skipped in the last 4 weeks. Skipped it by mistake today? Under **Skipped today at…**, tap **Count it**: the rider then counts as having heard it, if it started while they were aboard. It's offered only that day.
 
-**Shuffle this week** on the **Week** tab moves this week's songs to other days; today's stay put.
+**A full list.** Adding a song asks which one it replaces; nothing changes until you confirm. To start over, tap **⋯** beside **Songs**, then **Remove all songs** (it asks first).
+
+**Shuffle this week** on the **Week** tab moves songs to other days; today's stay put.
 
 ## Seating
 
@@ -245,7 +267,7 @@ Unchecked runs are forgotten at midnight.
 
 **Mark incident** saves the time with one tap; write it up later, parked, and the office can pull camera footage. It needs a seating chart.
 
-## The one tap
+#### The one tap
 
 - **Now Playing:** **Mark incident**, below the controls.
 - **Lock Screen:** the round **Mark** button, which shows a tick and the time.
@@ -253,7 +275,7 @@ Unchecked runs are forgotten at midnight.
 
 It asks nothing; taps within two minutes are one marker. It goes to the run playing, just paused, or started with Start run, else the no-music run under way.
 
-## Without opening the app
+#### Without opening the app
 
 - **Control:** touch and hold the Lock Screen, tap **Customize**, add **Mark incident**. Or use Control Center.
 - **Action button:** in **Settings**, **Action Button**, **Shortcut**, **Mark incident**.
@@ -261,13 +283,13 @@ It asks nothing; taps within two minutes are one marker. It goes to the run play
 
 Each works locked. With no music, stops come from your schedule, and the write-up says so.
 
-## Writing it up
+#### Writing it up
 
 The Week tab shows **1 incident to write up**. Or tap **Incidents** under the **Seats** title; **Add an incident** covers one you missed.
 
 **Needs follow-up** counts against the riders involved: no reward first, and a re-work keeps them from a friend two weeks.
 
-## The summary
+#### The summary
 
 **Summary** makes text with the time, four minutes of footage either side, names and your words. **Copy** keeps it ten minutes; **Share…** sends it.
 
@@ -275,13 +297,13 @@ The Week tab shows **1 incident to write up**. Or tap **Incidents** under the **
 
 Both are PDFs. Tap **Reports** under the **Seats** title (you need a seating chart). A rider's card then has **Share a report** too.
 
-## Principal summary
+#### Principal summary
 
 For one school at a time. Follow-ups come first, with dates. No notes. It lists **Needs attention** (two or more Not good marks, or any follow-up or incident), **Kudos** (a good ride on every run you checked, with at least four checked runs) and **Game changer** (three or more marks or follow-ups in the same length of time before, none since). A rider under Needs attention is in no other list.
 
 It covers the time since you last spoke to that principal: under **Last spoke**, **Choose a day**, or **Clear** to go back to the last 14 days. After sharing, it offers to set it to today.
 
-## One rider's report
+#### One rider's report
 
 Everything about one rider, newest first, over **Last 2 weeks**, **Last 30 days**, **This school year** or **Choose dates**.
 
@@ -290,7 +312,7 @@ Everything about one rider, newest first, over **Last 2 weeks**, **Last 30 days*
 
 **Your notes print exactly as you wrote them. They may name other riders, even with Name other riders off. Read the preview before you share it.** An incident prints as "Incident"; where it happened is left out. A note prints up to 2,000 characters.
 
-## Where it goes
+#### Where it goes
 
 The share sheet doesn't offer Copy, and the file is removed when it closes. A report leaves your iPhone only when you share it.
 
@@ -298,15 +320,15 @@ The share sheet doesn't offer Copy, and the file is removed when it closes. A re
 
 Suggests who earned a reward each week. Off until you turn it on; it needs a seating chart.
 
-## Turning it on
+#### Turning it on
 
 On the **Seats** tab, tap your reward's button under the title. Set **Called**, **How many a week**, **Most for one rider in a month** and **Schools**.
 
-## The weekly card
+#### The weekly card
 
 On weekdays, while parked, the Week tab shows a card with **Choose riders**. It goes once you give them; tap **×** to hide it until next week.
 
-## The list
+#### The list
 
 It covers last week: a point for each good ride (from runs you checked), two for each Good mark. The top scores are **Suggested**, ticked (unless nothing was recorded); ties go to whoever waited longest. The other groups start unticked. With no runs checked, Good marks decide.
 
@@ -316,11 +338,11 @@ It covers last week: a point for each good ride (from runs you checked), two for
 
 **Given this week** shows who got one, and the day. Swipe left to remove one (it asks first); they return to the list.
 
-## One rider
+#### One rider
 
 On a rider's card, the **Give a reward** button gives one now, outside the weekly list. It counts toward the monthly most only. Remove it in History.
 
-## Earlier weeks
+#### Earlier weeks
 
 At the bottom, see who got one in each of the last 12 weeks, and swipe left to remove one. Gave some before using this list? Tick them and tap **Add**.
 
@@ -328,17 +350,17 @@ At the bottom, see who got one in each of the last 12 weeks, and swipe left to r
 
 Keeps track of which riders need a bus card, so the details are ready for your district's form.
 
-## The list
+#### The list
 
 On the **Seats** tab, tap **Bus cards** under the title (you need a seating chart). Riders sit under **Needs a card**, **Requested** and **Handed out**. Tap **+** to add a rider who needs one. The button on a row moves the rider on: **Requested**, **Handed out**, then **Clear**, which asks first. A rider with no last name shows "add last name".
 
 On a rider's card, **More**, **Bus card** opens the same screen as a row in the list. **Edit** on the card has the last name and student number too.
 
-## The details
+#### The details
 
 Enter the **Last name** and **Student number** (both optional). Tap **Copy** beside the first name, last name, student number or school, or **Copy all**, then paste into the form. Copy keeps the details on this iPhone for ten minutes. Each change of state shows in the rider's History.
 
-## The district's form
+#### The district's form
 
 Tap **Add the address** and paste your form's web address; it must start with http or https. To get it from a QR code, open the code with the Camera app and copy the address from Safari. **Open the district's form** then opens it in Safari.
 
@@ -374,27 +396,25 @@ This is not legal advice. If you are not sure, ask your transportation office.
 
 ### Now Playing
 
-**Now Playing** shows the song in big letters, with the rider's name small underneath, and what's next. Nothing needs a tap.
+**Now Playing** shows the song in big letters, with the rider's name small underneath, and what's next. Nothing needs a tap. After **Done**, a slim bar has play, pause and skip.
 
-**Mini-player bar.** After **Done**, a slim bar has play, pause and skip.
+**Lock Screen.** On iOS 18 or later, a card and the Dynamic Island show the song, until school or 15 minutes paused. The card's round buttons are **Flag**, play, skip and **Mark**.
 
-**Lock screen.** On iOS 18 or later, a card and the Dynamic Island show whose song it is, until school or 15 minutes paused.
+**Flag.** The flag left of **Play** keeps the song to review later, parked. Or tell Siri "Flag this song in Seats & Beats". See **Flagged and blocked songs**.
 
-**Mark incident.** With a seating chart, a button below the controls saves an incident's time in one tap; the Lock Screen card has a round **Mark** button. See **Marking an incident**. With GPS on, a lighter **Mark stop** below it, shown after two GPS drives while a stop has no location, keeps the spot when you tap it, stopped there (it reads "Stop marked"). Confirm which stop on the Week tab, parked. It asks nothing.
+**Mark incident.** With a seating chart, a button below the controls saves an incident's time. See **Marking an incident**. With GPS on, **Mark stop** can show below it; confirm it parked.
 
-**Layover.** After a run it shows **Layover · Run 2 starts 7:55** and a big **Play**. With **Keep picks playing** (**Between runs**, Route tab), picks play instead, with **Start Run 2**.
+**Corners and the Action button.** Touch and hold the Lock Screen, tap **Customize**, and put **Mark incident** or **Flag this song** in a corner. Or **Settings**, **Action Button**, **Controls**.
 
-**Skip.** A song skipped well before its end counts as **not heard**, so that rider goes first next time.
+**Layover.** Between runs it shows **Layover · Run 2 starts 7:55** and a big **Play**.
 
-**When songs run out.** With **Keep music going to the end** on, driver's picks carry on until you pause.
+**Skip.** A skipped song isn't counted as heard, so that rider goes first next time.
 
-**Crossfade** is in **Settings**, under **Playlist options**.
+**Driver's picks** carry on when songs run out, with **Keep music going to the end** on. **Play driver's picks** may first ask **Who's on the bus?**
 
 **If something goes wrong,** a yellow box says what to do. If the app closed, reopen it and tap **RESUME**.
 
-**The ⋯ menu:** **End today's music** asks first (to stop briefly, Pause). **Start over** forgets today's plays.
-
-For a delay day, see **Late starts and early releases**.
+**The ⋯ menu:** **End today's music** asks first. **Start over** forgets today's plays. **Crossfade** is in **Settings**, **Playlist options**.
 
 ### Late starts and early releases
 
@@ -441,11 +461,13 @@ When the songs need more time than a run has, some riders **sit out** that day. 
 - **Who shares the time:** a morning run and the afternoon run joined to it share one list; any other run is planned on its own. A **Driver's picks** or **No music** run has no rotation.
 - **Who sits out:** riders left out least over the last 4 weeks sit out first; those left out most are protected.
 - **Who goes first next time:** a rider who sat out.
-- **Taking turns:** A rider who heard their song in the morning lately is more likely to hear it in the afternoon, and the other way round, when there's room. It never costs anyone their song.
-- **Sitting out list:** **Sitting out today** on a day's page; their songs wait at the end of the playlist.
+- **Taking turns:** a rider who heard their song in the morning lately leans to the afternoon, and the other way round, when there's room.
+- **Sitting out list:** **Sitting out today** on a day's page. Their songs don't play that day, unless a skip frees time while they're aboard.
 - **The weekly limit:** in **Settings**, **Same song at most 2× a week** stops one song filling every day.
+- **No repeats:** a rider doesn't hear one song two school days running when another of theirs can play.
+- **Skips:** A skipped song doesn't count. Its rider goes first next time. A song's page shows its skips.
 
-**Sitting out** is different from **Misses it**: sitting out leaves the song off to make room; misses it plays it while the rider isn't aboard.
+**Sitting out** leaves the song off to make room; **Misses it** plays it while the rider isn't aboard.
 
 For a rider's history: **Riders**, the rider, **This week**. A filled check is heard, a filled X not heard, an outlined check planned, a clock planned to sit out, a dash no song.
 
@@ -459,13 +481,15 @@ Everything you can change to fit your bus.
 
 Driver's picks are your own songs. They play when no rider has a song waiting, keep each run's music going to its end, and fill **Driver's picks** runs and the layover with **Keep picks playing**.
 
-**Play driver's picks.** For a trip Seats & Beats doesn't plan, tap **Play driver's picks** under the yellow card on the **Week** tab when no run is playing. While **Keep music going to the end** is on, they also carry on by themselves when riders' songs run out: after the day's last song, and on a late morning. **Pause** stops them for now; **End driver's picks** in the ⋯ menu clears them (paused picks clear after 15 minutes). A run's **Play** takes over.
+**Play driver's picks.** For a trip Seats & Beats doesn't plan, tap **Play driver's picks** on the **Week** tab when no run is playing. If some picks aren't All ages, it first asks **Who's on the bus?** With **Keep music going to the end** on, picks also carry on when riders' songs run out. **End driver's picks** in the ⋯ menu clears them (paused picks clear after 15 minutes). A run's **Play** takes over.
 
-On the **Songs** tab, tap **Driver's picks**, then **+**. Swipe right (or press and hold) for **Lyrics** in Apple Music. To remove one, swipe left and tap **Remove**. Under **⋯**, then **Edit**, drag to reorder, or select picks (or **Select all**) and tap **Remove**.
+On the **Songs** tab, tap **Driver's picks**, then **+**. To remove one, swipe left and tap **Remove**. Under **⋯**, then **Edit**, drag to reorder, or select picks (or **Select all**) and tap **Remove**.
 
-Picks play least played first and fill room between riders' songs. Picks never take a rider's turn. A pick that's also a rider's song that day sits out.
+**Okay for.** A pick is **All ages** unless marked **Middle & high** or **High school only**: touch and hold it, then **Okay for**; or in **Edit**, select picks and tap **Okay for…**; or choose when importing. A run plays only picks okay for its youngest school.
 
-To import picks, tap **⋯**, then **Import a playlist**, with **Goes into** set to **Driver's picks**, then **Add to my picks** or **Replace my current picks**. A song that's already a pick is skipped; **Remove duplicates** cleans up the rest.
+Picks take turns: a new pick plays once soon, then waits its turn. They never take a rider's turn, and a pick that's also a rider's song that day sits out.
+
+To import, tap **⋯**, then **Import a playlist**, with **Goes into** set to **Driver's picks**. A song already a pick is skipped; **Remove duplicates** cleans up the rest.
 
 ### Driver's picks settings
 
@@ -483,7 +507,31 @@ Three settings in **Settings**, **Playlist options**, decide when your picks pla
 
 **Riders come first.** Mixing in never changes who hears their song. A rider's song moves later only if it still ends at least 4 minutes before their stop or school release. With GPS following a run, it can move as late as a minute before the rider's stop.
 
-**Least played first.** The picks played least in the last four weeks come first.
+**Picks take turns.** The pick that has gone longest without playing comes first, so every pick plays before any plays again. A new pick plays once in its first few days, then waits its turn.
+
+### Flagged and blocked songs
+
+Hear something that doesn't belong on the bus? **Flag** it in one tap and decide later, parked. It asks nothing while you drive.
+
+#### Flagging
+
+- **Now Playing:** the flag left of **Play**.
+- **Lock Screen:** the round flag button, first in the row.
+- **Control:** touch and hold the Lock Screen, tap **Customize**, put **Flag this song** in a corner. Or add it to Control Center.
+- **Action button:** **Settings**, **Action Button**, **Controls**, **Flag this song**.
+- **Siri:** "Flag this song in Seats & Beats".
+
+#### Reviewing, parked
+
+The **Week** tab shows **Flagged songs** and a badge. Tap one; **Play from** starts just before your tap. Then: **Keep it**, **Switch to the clean version** (every rider's copy), **Remove** from a rider's list or your picks, **Okay for…** (a pick's ages), or **Block**. A song that is a rider's and a pick offers both. Reviewed flags stay 30 days.
+
+#### Blocking
+
+Blocking a song covers every version, clean and explicit; live versions and remixes are separate songs. Blocking an artist covers any song crediting them. It asks first, removes the songs from riders' lists and your picks, and they can't be added again (search greys them). Block from a flag, a rider's song page or a pick's menu (touch and hold).
+
+**Settings**, **Blocked songs and artists** lists them; swipe to **Unblock**. That removes nothing, and songs the block removed don't come back.
+
+**Start a new school year** clears flags and keeps blocks.
 
 ### Pausing a rider
 
@@ -600,7 +648,7 @@ Go to **Settings** (the gear at the top right), scroll to **Reset**, and tap **S
 - **Clear songs, keep riders:** removes every song request, pause and history. Riders stay, with their school, seats and connections. You can add new songs.
 - **Clear songs and remove all riders:** starts your rider list fresh too. Their seats, connections and earlier charts go with them.
 
-Your runs, stops, schools, driver's picks and seating charts always stay. This cannot be undone.
+Your runs, stops, schools, driver's picks, seating charts and blocked songs and artists always stay. Flagged songs are cleared. This cannot be undone.
 
 Afterwards:
 
@@ -655,7 +703,7 @@ Marks, notes and checked runs show too, and so do incidents, reports, rewards, b
 
 If something isn't working, the person helping you may ask to see your setup. Open **Settings** and tap **Share a support file**.
 
-**What's in it.** Your runs, stops, schools and their times. Each rider's grade, boy or girl, stop, school and songs (as song numbers). Driver's picks, the last 8 weeks of what played, and your seating charts and connections. It shows that a numbered rider got a mark, was up front or not riding, never a mark's name or your words; incidents, rewards, bus cards likewise. GPS is numbers only: stops located, how early or late the bus reached each stop, in seconds (never where), and for a stop not found yet, drives, separate spots and how far apart.
+**What's in it.** Your runs, stops, schools and their times. Each rider's grade, boy or girl, stop, school and songs (as song and artist numbers). Driver's picks, the last 8 weeks played, seating charts and connections. It shows that a numbered rider got a mark, was up front or not riding, never a mark's name or your words; incidents, rewards, bus cards likewise. GPS is numbers only: stops located, how early or late the bus reached each stop, in seconds (never where), and for a stop not found yet, drives, separate spots and how far apart.
 
 **Recent activity, and this iPhone.** The last 14 days of Recent activity, with no names; this iPhone's model, iOS version, free storage and settings such as Low Power Mode; your app settings; and whether Apple Music and iCloud work.
 
@@ -669,21 +717,21 @@ If something isn't working, the person helping you may ask to see your setup. Op
 
 Optional, and off unless you turn it on. Seats & Beats learns where your stops are and when the bus really gets there.
 
-## Turning it on
+#### Turning it on
 
 Parked, with your music stopped, open **Settings**, **GPS**, and turn on **Use GPS**. When iPhone asks, choose **While Using the App**. Learning starts with your next run's music. iPhone's blue marker may show during a run, even paused; no position is read while paused. More in **GPS while you drive**.
 
-## Learning your stops
+#### Learning your stops
 
 Drive each run as usual. A stop is found from the place the bus stops on most days, so a pause for traffic doesn't count. Parked, the Week tab says how many are found: **Save** keeps them; **Review** opens **Stop locations**.
 
 For a stop still not found after two drives, tap **Mark stop** on Now Playing while stopped there. Parked, the Week tab shows your mark with its best guess: **Save** or **Discard**. Mark the second of two stops closer than 30 metres. If a stop moves, choose **Forget this location** on its row; it is learned again.
 
-## Real stop times
+#### Real stop times
 
 A stop that is usually 2 minutes or more early or late is offered a new time; you tick the ones you want.
 
-## What it keeps
+#### What it keeps
 
 Stop locations and times are saved on this iPhone and in your iPhone's own backup, and never sent. A support file has only how early or late each stop was. Nothing is tracked without music, except a short stretch after it ends. **Forget all locations** removes them.
 
@@ -707,7 +755,7 @@ Stop locations and times are saved on this iPhone and in your iPhone's own backu
 
 An optional one-day test of how well this iPhone can tell when the bus is at a stop. It is off unless you turn it on.
 
-## Running it
+#### Running it
 
 1. Parked, with your music stopped, open **Settings**, **GPS**, then **GPS test drive**.
 2. Turn on **Test my next day of music**. When iPhone asks, choose **While Using the App**. With "Allow Once" the test turns itself off when your music starts, and says why.
@@ -715,11 +763,11 @@ An optional one-day test of how well this iPhone can tell when the bus is at a s
 
 It measures only while a run's music plays: not while paused, not driver's picks outside a run, not runs with no music. It changes nothing about your music. If Seats & Beats is closed during a run, that run's numbers are lost. iPhone shows a blue marker while it measures.
 
-## What it keeps
+#### What it keeps
 
 Times and measurements only: which scheduled stops it noticed (a long wait near a stop's time can be a queue of cars), other standstills such as lights, how exact the position was, the battery, and **Kept working while locked**: Yes, No, or "Not checked: the phone stayed unlocked". Where you were is never saved or sent.
 
-## The result
+#### The result
 
 It shows on the same page. **Share a support file** sends the numbers and no locations. **Run the test again** deletes this result at once, and **Remove this result…** removes it; both ask first. The switch and result stay on this iPhone.
 
