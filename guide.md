@@ -118,7 +118,7 @@ A **run** is one trip. On the **Route** tab, tap **+**. Enter each stop once, wi
 
 Each rider has a list of up to 10 songs (5 to 15 with **Songs per rider** in **Settings**, the gear at the top right, under **Playlist options**). One plays each school day:
 
-- **Every song gets a turn** before any repeats. Ten songs take two weeks.
+- **Every song gets a turn** before any repeats, and the one heard longest ago comes next. A new song comes first.
 - **One song a day, at most.**
 - **Never the same song two days in a row**, even over a weekend.
 - **Same song at most …× a week** still counts; driver's picks fill in.
@@ -129,7 +129,7 @@ Each rider has a list of up to 10 songs (5 to 15 with **Songs per rider** in **S
 
 **Skips.** A song's page shows how often it was skipped in the last 4 weeks. Skipped it by mistake today? Under **Skipped today at…**, tap **Count it**: the rider then counts as having heard it, if it started while they were aboard. It's offered only that day.
 
-**A full list.** Adding a song asks which one it replaces; nothing changes until you confirm. To start over, tap **⋯** beside **Songs**, then **Remove all songs** (it asks first).
+**A full list.** Adding a song asks which one it replaces; nothing changes until you confirm. To start over, tap **⋯** beside **Songs**, then **Remove all songs**.
 
 **Shuffle this week** on the **Week** tab moves songs to other days; today's stay put.
 
@@ -398,7 +398,7 @@ This is not legal advice. If you are not sure, ask your transportation office.
 
 **Now Playing** shows the song in big letters, with the rider's name small underneath, and what's next. Nothing needs a tap. After **Done**, a slim bar has play, pause and skip.
 
-**Lock Screen.** On iOS 18 or later, a card and the Dynamic Island show the song, until school or 15 minutes paused. The card's round buttons are **Flag**, play, skip and **Mark**.
+**Lock Screen.** On iOS 18 or later, a card shows the rider and who's next, and the Dynamic Island shows the song, until school or 15 minutes paused. The card's round buttons are **Flag**, play, skip and **Mark**.
 
 **Flag.** The flag left of **Play** keeps the song to review later, parked. Or tell Siri "Flag this song in Seats & Beats". See **Flagged and blocked songs**.
 
