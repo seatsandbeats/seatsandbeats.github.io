@@ -719,17 +719,17 @@ Optional, and off unless you turn it on. Seats & Beats learns where your stops a
 
 #### Turning it on
 
-Parked, with your music stopped, open **Settings**, **GPS**, and turn on **Use GPS**. When iPhone asks, choose **While Using the App**. Learning starts with your next run's music. iPhone's blue marker may show during a run, even paused; no position is read while paused. More in **GPS while you drive**.
+Parked, with your music stopped, open **Settings**, **GPS**, and turn on **Use GPS**. When iPhone asks, choose **While Using the App**. Learning starts with your next run's music. iPhone's blue marker may show during a run; no position is read while paused. More in **GPS while you drive**.
 
 #### Learning your stops
 
-Drive each run as usual. A stop is found from the place the bus stops on most days, so a pause for traffic doesn't count. Parked, the Week tab says how many are found: **Save** keeps them; **Review** opens **Stop locations**.
+Drive each run as usual. A stop is where the bus stops on most days, so a traffic pause doesn't count. Parked, the Week tab says how many are found: **Save** keeps them; **Review** opens **Stop locations**.
 
 For a stop still not found after two drives, tap **Mark stop** on Now Playing while stopped there. Parked, the Week tab shows your mark with its best guess: **Save** or **Discard**. Mark the second of two stops closer than 30 metres. If a stop moves, choose **Forget this location** on its row; it is learned again.
 
 #### Real stop times
 
-A stop that is usually 2 minutes or more early or late is offered a new time; you tick the ones you want.
+On a typical recent day, a stop 2 minutes early or 3 minutes late is offered a new time; tick the ones you want.
 
 #### What it keeps
 
