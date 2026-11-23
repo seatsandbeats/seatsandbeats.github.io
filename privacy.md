@@ -1,6 +1,6 @@
 # Seats & Beats Privacy Policy
 
-Last updated: 2026-11-13
+Last updated: 2026-11-17
 
 Seats & Beats collects no data. It has no accounts, no ads, no analytics and no tracking. The developer cannot see anything you enter.
 
@@ -15,7 +15,7 @@ Seats & Beats is for school bus drivers. Riders do not use it and have no accoun
 - Your preferences (crossfade, automatic playlist updates, which parts of the app are switched on and the other settings) follow you to your other devices through your own iCloud. The developer cannot see them. The day's playback position is kept only on the iPhone.
 - Nothing is shared with the developer, advertisers or any other third party.
 - A report, a summary, a seating chart or an incident summary contains names and your own words. It leaves your iPhone only when you share or copy it. Text you copy in the app stays on that iPhone and is cleared after ten minutes.
-- A support file (Settings, then Share a support file) leaves your iPhone only when you share it. It contains no names and none of the words you typed. Its settings list includes which parts of the app are switched on.
+- A support file (Settings, then Share a support file) leaves your iPhone only when you share it. It contains no names and none of the words you typed. Its settings list includes which parts of the app are switched on and whether Seats & Beats Pro is on.
 
 ## Apple Music
 
@@ -35,9 +35,13 @@ Turning GPS off stops all use of location and keeps what was learned. "Forget al
 
 The optional one-day GPS test drive keeps times and measurements only (when the bus stood still, how exact the position was, the battery level), never where you were.
 
+## Seats & Beats Pro
+
+Seats & Beats Pro is bought through Apple, and Apple handles payment. The app learns from Apple only whether Pro is active, when it renews, and which version you first downloaded and when (to know whether you are an early user). It keeps that on this iPhone, with the dates it last showed you a Pro card or asked for an App Store rating, and never sends it to iCloud or anyone else. A support file carries only the Pro state, never a price, a date or your Apple Account.
+
 ## Deleting your data
 
-Settings, then Reset, then "Erase all data" deletes everything Seats & Beats stores, including its copy in your iCloud. Deleting the app removes what is on the iPhone.
+Settings, then Reset, then "Erase all data" deletes everything Seats & Beats stores, including its copy in your iCloud, except what this iPhone keeps about Pro (that belongs to your Apple purchase). Deleting the app removes what is on the iPhone.
 
 ## Changes to this policy
 
